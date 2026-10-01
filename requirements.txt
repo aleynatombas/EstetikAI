@@ -1,0 +1,7 @@
+# CrewAI 1.15 routes Groq through the optional LiteLLM extra.
+crewai[litellm]>=1.15.23,<2
+pydantic>=2.0,<3
+python-dotenv>=1.0.0
+requests>=2.31.0
+fastapi>=0.115,<1
+uvicorn>=0.32,<1
